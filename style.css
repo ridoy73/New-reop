@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    font-family: 'Poppins';
+}
+.donate{
+    text-align: center;
+    color: beige;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(images/donation0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+
+
+}
+.donate h1{
+    padding-top: 180px;
+    font-size: 48px;
+
+}
+    .donate p{
+        font-size: 15px;
+        padding-top:30px ;
+        margin-bottom: 60px;
+    }
+    .Donate-button{
+        text-decoration: none;
+        font-size: 22px;
+        background-color: crimson;
+        padding: 8px 30px;
+        text-transform: uppercase;
+        color: white;
+        border-radius: 5px;
+    }
+    .Donate-Today{
+        text-align: center;
+        padding-top: 70px;
+    }
+    .Donate-Today h2{
+        font-size: 50px;
+    }
+    .Donate-Today p{
+        padding-top: 50px;
+        font-size: 20px;
+        margin-bottom: 60px;
+    }
+    .Amount{
+        margin-left:295px;
+        display: flex;
+    }
+    .Amount-itembox{
+        height: 100px;
+        width: 100px;
+        background-color: antiquewhite;
+        margin: 10px 25px;
+    }
+    .Amount-itembox h1{
+        text-align: center;
+        margin-top: 40px;
+    }
+    .color{
+        color: red;
+        background-color: rgb(238, 143, 143);
+        border: 2px solid red;
+    }
+    .Amount-itembox-input h3{
+        font-size: 20px;
+        margin-top: 60px;
+    }
+    .Amount-itembox-input{
+        margin-bottom: 20px;
+        width: 650px;
+        margin-left: 350px;
+        border-bottom: 2px solid rgb(236, 179, 179);
+    }
+    .Donate-button-now{
+        text-decoration: none;
+        font-size: 18px;
+        background-color: rgb(238, 49, 24);
+        padding: 10px 17px;
+        text-transform: uppercase;
+        color: white;
+        border-radius: 5px;
+        margin-right: 9px;
+        
+    }
+    .Donation-Plan{
+        text-align: center;
+        padding: 100px;
+    }
+    .Donation-Plan p{
+        padding: 30px;
+    }
+    .Discription{
+        display: flex;
+        width: 90%;
+        margin-left: 70px;
+    }
+    .Discription-box{
+        padding: 30px 40px;
+        width: 30%;
+        margin: 0px 20px;
+        border-radius: 5px;
+    }
+    .Discription-box h1{
+        margin: 10px 0px;
+    }
+    .Discription-box p{
+        text-align: justify;
+    }
+    .color1{
+        background-color: gray;
+    }
+    .color2{
+        background-color: beige;
+    }
+    .color3{
+        background-color: tomato;
+    }
+    .Story{
+        margin-top: 80px;
+        margin-left:210px ;
+        display: flex;
+    }
+    .Story img{
+        height: 260px;
+        margin-bottom: 150px;
+    }
+    .contribute-bttn{
+        text-decoration: none;
+        font-size: 18px;
+        background-color: rgb(238, 49, 24);
+        padding: 10px 17px;
+        text-transform: uppercase;
+        color: white;
+        border-radius: 5px;
+        margin-left: 30px;
+    }
+    .Story h1{
+        margin-left: 30px;
+    }
+    .Story p{
+        text-align: justify;
+        padding: 28px ;
+    }
+    .Get-update{
+        text-align: center;
+        /* padding: 30px; */
+    }
+    .Get-update h1{
+        font-size: 50px;
+        margin-top: -100px;
+    }
+    .Get-update p{
+      margin: 10px 0;
+    }
+    .Email-submit{
+        text-align: center;
+        /* padding: 10px 0; */
+        margin-top: 50px;
+        height: 100px;
+        padding-top: 10px;
+        width: 650px;
+        margin-left: 350px;
+        margin-bottom: 20px;
+        background-color: rgb(230, 140, 140);
+    }
+    .Submit-bttn{
+        padding: 10px 30px;
+        background-color: bisque;
+        text-decoration: none;
+        margin-left: -10px;
+    }
+    .Email-submit input{
+        padding: 11px 60px 10px 11px;
+        border: none;
+        margin-left: -40px;
+        margin-top: 26px;
+    }
+    .footer{
+        text-align: center;
+        margin-top: 80px;
+        color: white;
+        height: 100px;
+        padding-top: 50px;
+       background-color: black;
+        
+    }
+    .footer h1{
+        font-size: 32px;
+        font-style: italic;
+        margin-bottom: 10px;
+
+    }
+        
+  
+
+
+    
